@@ -1,8 +1,13 @@
 {
   "name": "witchelaina",
-  "displayName": "WitchElaina",
-  "description": "",
+  "displayName": "Witch Elaina Color Theme",
+  "description": "vscode theme inspired by the anime Majo no Tabitabi",
+  "publisher": "WitchElaina",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WitchElaina/WitchElaina-vscode-theme.git"
+  },
   "engines": {
     "vscode": "^1.79.0"
   },
@@ -14,8 +19,9 @@
       {
         "label": "Witch Elaina",
         "uiTheme": "vs-dark",
-        "path": "./themes/Witch Elaina-color-theme.json"
+        "path": "./themes/WitchElaina-color-theme.json"
       }
     ]
-  }
+  },
+  "license": "MIT"
 }

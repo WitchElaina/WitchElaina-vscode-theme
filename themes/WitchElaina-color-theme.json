@@ -1901,11 +1901,11 @@
     "titleBar.inactiveForeground": "#cccccc99",
     "titleBar.border": "#00000000",
     "menubar.selectionForeground": "#cccccc",
-    "menubar.selectionBackground": "#ffffff1a",
+    "menubar.selectionBackground": "#5e447b",
     "menu.foreground": "#cccccc",
     "menu.background": "#252526",
     "menu.selectionForeground": "#ffffff",
-    "menu.selectionBackground": "#534566",
+    "menu.selectionBackground": "#5e447b",
     "menu.selectionBorder": "#00000000",
     "menu.separatorBackground": "#bbbbbb",
     "menu.border": "#00000085",
@@ -1922,7 +1922,7 @@
     "inputOption.activeBorder": "#8d58ca",
     "inputOption.activeForeground": "#ffffff",
     "input.placeholderForeground": "#a6a6a6",
-    "textLink.foreground": "#3794ff",
+    "textLink.foreground": "#9b61dd",
     "editor.background": "#17141b",
     "editor.foreground": "#dee9e9",
     "editorLineNumber.foreground": "#858585",
@@ -2021,7 +2021,7 @@
     "editorWidget.background": "#2f2838",
     "editorWidget.resizeBorder": "#8d58ca",
     "pickerGroup.border": "#3f3f46",
-    "pickerGroup.foreground": "#3794ff",
+    "pickerGroup.foreground": "#8d58ca",
     "debugToolBar.background": "#333333",
     "debugToolBar.border": "#474747",
     "notifications.foreground": "#cccccc",
@@ -2100,6 +2100,8 @@
     "breadcrumb.activeSelectionForeground": "#e0e0e0",
     "editorGutter.commentRangeForeground": "#c5c5c5",
     "debugExceptionWidget.background": "#333333",
-    "debugExceptionWidget.border": "#474747"
+    "debugExceptionWidget.border": "#474747",
+    "quickInputList.focusBackground": "#5e447b",
+    "keybindingLabel.background": "#3c3c3c"
   }
 }
